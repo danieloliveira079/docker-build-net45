@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/image/danieloliv/docker-build-net45.svg)](https://microbadger.com/images/danieloliv/docker-build-net45 "Get your own image badge on microbadger.com")
+
 # docker-build-net45
 Docker container for building .NET 4.5 applications
 
